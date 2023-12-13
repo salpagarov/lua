@@ -1,1 +1,1 @@
-https://salpagarov.github.io/lua.ru/
+https://salpagarov.github.io/lua/
